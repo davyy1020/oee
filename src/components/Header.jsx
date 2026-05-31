@@ -6,7 +6,7 @@ const Header = () => {
     <header className="neo-header">
       <div>
         <h1>OEE MONITORING SYSTEM</h1>
-        <p>AJINOMOTO INDONESIA</p>
+        <p>OEE MONITORING SYSTEM</p>
       </div>
       
       <div style={{ display: 'flex', gap: '20px', alignItems: 'center' }}>

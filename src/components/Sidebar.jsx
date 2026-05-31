@@ -16,7 +16,7 @@ const Sidebar = ({ currentPage = 'dashboard', onNavigate = () => {} }) => {
   return (
     <aside className="sidebar">
       <div className="sidebar-logo">
-        <img src={logo} alt="Ajinomoto" style={{ height: '70px', objectFit: 'contain' }} />
+        <img src={logo} alt="Logo" style={{ height: '70px', objectFit: 'contain' }} />
       </div>
       
       {menuItems.map((item, idx) => (

@@ -105,7 +105,7 @@ const SettingPage = ({ onBack }) => {
               <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
                 <div className="form-group">
                   <label style={{ fontSize: '0.7rem' }}>NAMA PERUSAHAAN</label>
-                  <input type="text" className="neo-input" defaultValue="PT. AJINOMOTO INDONESIA" style={{ padding: '8px 12px' }} />
+                  <input type="text" className="neo-input" defaultValue="Company Name" style={{ padding: '8px 12px' }} />
                 </div>
                 <div className="form-group">
                   <label style={{ fontSize: '0.7rem' }}>NAMA PLANT / PABRIK</label>
